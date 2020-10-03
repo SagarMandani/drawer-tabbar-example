@@ -1,8 +1,8 @@
 # drawer-tababr-example
  
- How to design drawer and tabbarin react navigation.
+ How to design drawer and tabbar in react navigation.
  <hr />
- In this tutorial, we'll make a design drawer and tabbarin react navigation.
+ In this tutorial, we'll make a design drawer and tabbar in react navigation.
  <hr />
  
  * Android emulator image
